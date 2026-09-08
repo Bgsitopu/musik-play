@@ -1,0 +1,6 @@
+{
+  "name": "Video Player",
+  "description": "All-format background video player with independent volume, equalizer, bass boost, favorite folders, folder privacy, and elegant dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
